@@ -1,0 +1,9 @@
+logs
+target
+/.idea
+/.classpath
+/.project
+/.settings
+.directory
+npm-debug.log
+node_modules
