@@ -3,7 +3,7 @@ var request = require("request");
 var http = require("http");
 var https = require("https");
 var cors = require('cors');
-var server_root = "/zylundb-service";
+var server_root = "/database_master-service";
 
 var app = require("./app/app");
 var base = express();
